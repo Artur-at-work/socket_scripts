@@ -1,0 +1,12 @@
+pip
+setuptools
+wheel
+service_identity
+channels-redis~=3.4.0
+channels-redis~=2.4.0
+django-redis>=4.9.0
+django-pipeline~=2.0.0
+uwsgi
+MySQL-python
+django-celery-email
+django~=3.2.13
