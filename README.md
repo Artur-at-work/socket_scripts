@@ -1,2 +1,2 @@
 # socket_scripts
-Python snippets for network programming
+Quick snippets for networking or automation scripts
